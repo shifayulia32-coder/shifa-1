@@ -8,7 +8,7 @@
 membuat 3 struktur untuk 3 departemen (marketing, engineering, hr) dengan subfolder documents dan archives
 https://drive.google.com/file/d/1gYY5I3jWMv8yz-93OuNyWzavATGkNttq/view?usp=drivesdk
 ### Pindahkan dan salin file
-### a. memindahkan file ke folder yang benar
+### a. memindahkan file yang salah ke folder yang benar
 https://drive.google.com/file/d/1jAju4vH3TipaeMDKF6S2DZKjyHjVGc0l/view?usp=drivesdk
 ### b. membuat salinan backup
 https://drive.google.com/file/d/1p9aOnYkuzV-cXprJ-yFd41xQ5kHbfqR3/view?usp=drivesdk
